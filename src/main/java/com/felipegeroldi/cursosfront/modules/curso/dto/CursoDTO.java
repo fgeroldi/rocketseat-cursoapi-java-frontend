@@ -17,6 +17,7 @@ public class CursoDTO {
     private String name;
     private String category;
     private Status status;
+    private String professor;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 }
